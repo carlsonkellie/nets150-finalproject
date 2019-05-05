@@ -10,7 +10,6 @@ public class GenerateMap {
 		try {
 			br = new BufferedReader(new FileReader(filename));
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
@@ -48,9 +47,9 @@ public class GenerateMap {
 						Double numValue = Double.parseDouble(value);
 						partners.put(partner, numValue);
 
-						System.out.print(country);
-						System.out.print(" - " + partner);
-						System.out.println(" : " + value);
+//						System.out.print(country);
+//						System.out.print(" - " + partner);
+//						System.out.println(" : " + value);
 					}
 				}
 			}
@@ -98,8 +97,8 @@ public class GenerateMap {
 							destinations.put(destination, 1.0);
 						}
 
-						 System.out.print(origin);
-						 System.out.println(" - " + destination);
+//						 System.out.print(origin);
+//						 System.out.println(" - " + destination);
 					}
 				}
 			}

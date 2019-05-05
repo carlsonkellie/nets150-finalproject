@@ -1,0 +1,14 @@
+NETS150 HW5
+Kellie Carlson and Jasmine Wang
+
+We want to analyze the similarities/differences in lyrical contents for the top English songs in each country around the world. We will see which countries are most similar in their top songs, and examine if and how these countries are related. Modeling countries as nodes of a graph, we will then place edges based on geography, trade, and airline flight frequency.
+
+Categories used: 
+-Graph and graph algorithms: represent each country as node and perform graph algorithms such as shortest path to correlate countries
+-Document search: each country's song lyrics form a document and used tf-idf/cosine similarity metric to compare song lyrics between countries
+
+Work breakdown:
+Jasmine: obtained CSVs of top songs in 20 countries
+Kellie: extracted song lyrics for all English songs in Python
+Jasmine: obtained airline and trade CSVs and parsed them in Java
+Kellie: implemented shortest path based on geography between countries

@@ -4,6 +4,8 @@ import java.util.HashMap;
 public class GenerateMapTest {
 
 	public static void main(String[] args) {
+		
+		// generate filtered trade data from data bank
 		GenerateMap tradeMap = new GenerateMap("Trade Data.csv");
 		HashMap<String, HashMap<String, Double>> filteredMap = tradeMap.tradeMap();
 		
@@ -35,8 +37,9 @@ public class GenerateMapTest {
 			
 		}
 		
+		// generate filtered airline data from data bank
 		GenerateMap airMap = new GenerateMap("Airline.csv");
-		airMap.airMap();
+		HashMap<String, HashMap<String, Double>> filteredaMap = airMap.airMap();
 		
 		FileWriter csvWriter1;
 		try {
@@ -45,11 +48,11 @@ public class GenerateMapTest {
 			csvWriter1.append(",");
 			csvWriter1.append("Country 2");
 			csvWriter1.append(",");
-			csvWriter1.append("Trade Value");
+			csvWriter1.append("Flight Frequency");
 			csvWriter1.append("\n");
 			
-			for (String partners: filteredMap.keySet()) {
-				HashMap<String, Double> partnerSet = filteredMap.get(partners);
+			for (String partners: filteredaMap.keySet()) {
+				HashMap<String, Double> partnerSet = filteredaMap.get(partners);
 				for (String partner : partnerSet.keySet()) {
 					double value = partnerSet.get(partner);
 					

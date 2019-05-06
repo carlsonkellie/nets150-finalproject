@@ -12,15 +12,27 @@ public class VectorSpaceModelTester {
 
 	public static void main(String[] args) {
 
-		Document d1 = new Document("frankenstein.txt");
-		Document d2 = new Document("nightmare-abbey.txt");
-		Document d3 = new Document("northanger_abbey");
-		Document d4 = new Document("tom-sawyer.txt");
-		Document d5 = new Document("michael_strogoff.txt");
-		Document d6 = new Document("prime_minister.txt");
-		Document d7 = new Document("oz.txt");
-		Document d8 = new Document("broad_highway.txt");
-		Document d9 = new Document("silver_sea.txt");
+		Document d1 = new Document("United_States_lyrics.txt");
+		Document d2 = new Document("United_Kingdom_lyrics.txt");
+		Document d3 = new Document("Turkey_lyrics.txt");
+		Document d4 = new Document("Sweden_lyrics.txt");
+		Document d5 = new Document("Singapore_lyrics.txt");
+		Document d6 = new Document("Brazil_lyrics.txt");
+		Document d7 = new Document("Australia_lyrics.txt");
+		Document d8 = new Document("Canada_lyrics.txt");
+		Document d9 = new Document("Colombia_lyrics.txt");
+		Document d10 = new Document("Costa_Rica_lyrics.txt");
+		Document d11 = new Document("France_lyrics.txt");
+		Document d12 = new Document("Germany_lyrics.txt");
+		Document d13 = new Document("Guatemala_lyrics.txt");
+		Document d14 = new Document("Hong_Kong_lyrics.txt");
+		Document d15 = new Document("India_lyrics.txt");
+		Document d16 = new Document("Hong_Kong_lyrics.txt");
+		Document d17 = new Document("Japan_lyrics.txt");
+		Document d18 = new Document("Mexico_lyrics.txt");
+		Document d19 = new Document("Netherlands_lyrics.txt");
+		Document d20 = new Document("New_Zealand_lyrics.txt");
+		
 
 		ArrayList<Document> documents = new ArrayList<Document>();
 		documents.add(d1);

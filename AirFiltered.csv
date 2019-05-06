@@ -1,51 +1,39 @@
-Country 1,Country 2,Trade Value
-Colombia,Australia and New Zealand,71.668
-Colombia,Japan,557.357
-Colombia,United States of America,11012.215
-Colombia,Brazil,1363.481
-Colombia,Mexico,1536.662
-Colombia,India,279.64
-Singapore,Australia and New Zealand,11805.011
-Singapore,Japan,17056.688
-Singapore,United States of America,24183.045
-Singapore,Brazil,1208.521
-Singapore,Mexico,1280.826
-Singapore,India,11017.887
-Australia and New Zealand,Australia and New Zealand,13047.754
-Australia and New Zealand,Japan,48943.164945
-Australia and New Zealand,United States of America,13082.691043
-Australia and New Zealand,Brazil,1189.568
-Australia and New Zealand,Mexico,386.361
-Australia and New Zealand,India,11239.581
-Japan,Australia and New Zealand,18473.37
-Japan,United States of America,135059.633
-Japan,Brazil,3393.387
-Japan,Mexico,11269.197
-Japan,India,8850.845
-Philippines,Australia and New Zealand,509.028167
-Philippines,Japan,10856.508034
-Philippines,United States of America,9669.665587
-Philippines,Brazil,127.451352
-Philippines,Mexico,626.731508
-Philippines,India,576.737072
-United States of America,Australia and New Zealand,28284.595388
-United States of America,Japan,67717.390161
-United States of America,Brazil,37295.404598
-United States of America,Mexico,243789.370664
-United States of America,India,25747.83047
-Canada,Australia and New Zealand,1925.212619
-Canada,Japan,9128.282855
-Canada,United States of America,319958.581291
-Canada,Brazil,1321.880716
-Canada,Mexico,6058.446462
-Canada,India,3225.847216
-Brazil,Australia and New Zealand,548.24
-Brazil,Japan,5263.291
-Brazil,United States of America,27147.723
-Brazil,Mexico,4514.103
-Brazil,India,4657.329
-Mexico,Australia and New Zealand,1303.036
-Mexico,Japan,4055.836
-Mexico,United States of America,327357.934
-Mexico,Brazil,3681.278
-Mexico,India,3338.505
+Country 1,Country 2,Flight Frequency
+Colombia,United States,561.0
+Singapore,United States,116.0
+Hong Kong,United States,519.0
+United States,Colombia,545.0
+United States,Singapore,120.0
+United States,Hong Kong,374.0
+United States,Japan,1029.0
+United States,Philippines,76.0
+United States,United Kingdom,1477.0
+United States,Costa Rica,436.0
+United States,India,148.0
+United States,New Zealand,107.0
+United States,Canada,4664.0
+United States,Sweden,112.0
+United States,Netherlands,482.0
+United States,Turkey,170.0
+United States,Guatemala,239.0
+United States,Brazil,725.0
+United States,Mexico,4322.0
+United States,France,738.0
+United States,Australia,318.0
+United States,Germany,998.0
+Japan,United States,991.0
+Philippines,United States,71.0
+United Kingdom,United States,1424.0
+Costa Rica,United States,443.0
+India,United States,122.0
+New Zealand,United States,59.0
+Canada,United States,4722.0
+Sweden,United States,116.0
+Netherlands,United States,319.0
+Turkey,United States,152.0
+Guatemala,United States,199.0
+Brazil,United States,509.0
+Mexico,United States,4325.0
+France,United States,663.0
+Australia,United States,237.0
+Germany,United States,1010.0

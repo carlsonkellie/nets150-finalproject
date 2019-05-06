@@ -27,12 +27,11 @@ public class VectorSpaceModelTester {
 		Document d13 = new Document("Guatemala_lyrics.txt");
 		Document d14 = new Document("Hong_Kong_lyrics.txt");
 		Document d15 = new Document("India_lyrics.txt");
-		Document d16 = new Document("Hong_Kong_lyrics.txt");
+		Document d16 = new Document("Philippines_lyrics.txt");
 		Document d17 = new Document("Japan_lyrics.txt");
 		Document d18 = new Document("Mexico_lyrics.txt");
 		Document d19 = new Document("Netherlands_lyrics.txt");
 		Document d20 = new Document("New_Zealand_lyrics.txt");
-		
 
 		ArrayList<Document> documents = new ArrayList<Document>();
 		documents.add(d1);
@@ -44,6 +43,17 @@ public class VectorSpaceModelTester {
 		documents.add(d7);
 		documents.add(d8);
 		documents.add(d9);
+		documents.add(d10);
+		documents.add(d11);
+		documents.add(d12);
+		documents.add(d13);
+		documents.add(d14);
+		documents.add(d15);
+		documents.add(d16);
+		documents.add(d17);
+		documents.add(d18);
+		documents.add(d19);
+		documents.add(d20);
 
 		Corpus corpus = new Corpus(documents);
 
@@ -67,8 +77,8 @@ public class VectorSpaceModelTester {
 					Double cosSim = vectorSpace.cosineSimilarity(doc1, doc2);
 					System.out.println(cosSim);
 
-					csvWriter.append(doc1.toString() + ",");
-					csvWriter.append(doc2.toString() + ",");
+					csvWriter.append(doc1.toString().split("_lyrics")[0] + ",");
+					csvWriter.append(doc2.toString().split("_lyrics")[0] + ",");
 					csvWriter.append(cosSim + "\n");
 				}
 			}

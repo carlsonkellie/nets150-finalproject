@@ -1,176 +1,176 @@
-Country 1,Country 2,Normalized
+﻿Country 1,Country 2,Normalized
 Singapore,Philippines,5.2953
-United_States,United_Kingdom,4.9758
+United States,United Kingdom,4.9758
 Guatemala,Mexico,4.1762
-Australia,New_Zealand,3.0932
-Australia,Hong_Kong,2.3335
-Sweden,Hong_Kong,2.2772
-Hong_Kong,New_Zealand,2.1770
+Australia,New Zealand,3.0932
+Australia,Hong Kong,2.3335
+Sweden,Hong Kong,2.2772
+Hong Kong,New Zealand,2.1770
 Australia,Canada,1.9037
-Hong_Kong,India,1.7524
-United_States,New_Zealand,1.7139
-United_States,Australia,1.7013
-United_Kingdom,New_Zealand,1.5703
-United_Kingdom,Australia,1.5588
-Canada,New_Zealand,1.4508
+Hong Kong,India,1.7524
+United States,New Zealand,1.7139
+United States,Australia,1.7013
+United Kingdom,New Zealand,1.5703
+United Kingdom,Australia,1.5588
+Canada,New Zealand,1.4508
 Sweden,Australia,1.3818
 Colombia,India,1.3318
 Turkey,Netherlands,1.2739
-Sweden,New_Zealand,1.2572
-United_States,Hong_Kong,1.1592
-United_Kingdom,Hong_Kong,1.0364
+Sweden,New Zealand,1.2572
+United States,Hong Kong,1.1592
+United Kingdom,Hong Kong,1.0364
 France,Germany,1.0361
-Turkey,Hong_Kong,1.0048
-Canada,Hong_Kong,0.9914
-United_Kingdom,Canada,0.9787
+Turkey,Hong Kong,1.0048
+Canada,Hong Kong,0.9914
+United Kingdom,Canada,0.9787
 Australia,India,0.9608
-United_States,Canada,0.9246
+United States,Canada,0.9246
 Sweden,India,0.9039
-United_States,Turkey,0.8466
-India,New_Zealand,0.7780
-Hong_Kong,Japan,0.7727
-Singapore,New_Zealand,0.7439
-United_Kingdom,Turkey,0.7321
-Philippines,New_Zealand,0.7313
+United States,Turkey,0.8466
+India,New Zealand,0.7780
+Hong Kong,Japan,0.7727
+Singapore,New Zealand,0.7439
+United Kingdom,Turkey,0.7321
+Philippines,New Zealand,0.7313
 Sweden,Netherlands,0.7161
-United_States,Netherlands,0.6986
-Singapore,Hong_Kong,0.6310
-Hong_Kong,Philippines,0.6186
-United_Kingdom,Netherlands,0.6109
+United States,Netherlands,0.6986
+Singapore,Hong Kong,0.6310
+Hong Kong,Philippines,0.6186
+United Kingdom,Netherlands,0.6109
 Sweden,Singapore,0.6031
 Sweden,Philippines,0.5960
 Turkey,Australia,0.5389
 Singapore,Australia,0.5306
 Australia,Philippines,0.5242
-Hong_Kong,Netherlands,0.5078
-Turkey,New_Zealand,0.5053
+Hong Kong,Netherlands,0.5078
+Turkey,New Zealand,0.5053
 Colombia,Mexico,0.4968
 Sweden,Colombia,0.4652
-United_States,India,0.4621
+United States,India,0.4621
 Turkey,India,0.4321
-Netherlands,New_Zealand,0.4215
-United_States,Sweden,0.4134
+Netherlands,New Zealand,0.4215
+United States,Sweden,0.4134
 Singapore,India,0.3975
 India,Philippines,0.3974
-United_Kingdom,India,0.3794
+United Kingdom,India,0.3794
 Sweden,Canada,0.3671
-United_Kingdom,Sweden,0.3363
+United Kingdom,Sweden,0.3363
 Turkey,Sweden,0.2562
 Australia,Netherlands,0.2397
-United_States,Singapore,0.2319
-United_States,Philippines,0.2149
-United_Kingdom,Singapore,0.1804
-United_Kingdom,Philippines,0.1647
+United States,Singapore,0.2319
+United States,Philippines,0.2149
+United Kingdom,Singapore,0.1804
+United Kingdom,Philippines,0.1647
 France,Netherlands,0.1541
 India,Netherlands,0.0910
 Canada,India,0.0793
-Costa_Rica,Mexico,0.0438
+Costa Rica,Mexico,0.0438
 Singapore,Japan,0.0135
 Australia,Germany,0.0130
 Philippines,Japan,0.0126
-Germany,New_Zealand,-0.0096
+Germany,New Zealand,-0.0096
 India,Mexico,-0.0203
 Australia,Japan,-0.0327
 Sweden,Japan,-0.0469
-United_States,Germany,-0.0531
+United States,Germany,-0.0531
 Turkey,Canada,-0.0635
-Germany,Hong_Kong,-0.0789
+Germany,Hong Kong,-0.0789
 Turkey,Germany,-0.0877
-United_Kingdom,Germany,-0.1039
+United Kingdom,Germany,-0.1039
 Germany,India,-0.1112
 Singapore,Canada,-0.1173
 Canada,Philippines,-0.1199
 Canada,Germany,-0.1241
-Japan,New_Zealand,-0.1312
-France,Hong_Kong,-0.1455
+Japan,New Zealand,-0.1312
+France,Hong Kong,-0.1455
 France,Philippines,-0.1468
 Singapore,France,-0.1478
 Sweden,France,-0.1632
-United_States,Japan,-0.1767
+United States,Japan,-0.1767
 Singapore,Netherlands,-0.1810
 Germany,Netherlands,-0.1877
 Philippines,Netherlands,-0.1984
-United_Kingdom,Japan,-0.2036
+United Kingdom,Japan,-0.2036
 Australia,France,-0.2312
 Turkey,France,-0.2361
 Sweden,Germany,-0.2499
 Sweden,Mexico,-0.2644
-France,New_Zealand,-0.2745
+France,New Zealand,-0.2745
 Canada,Netherlands,-0.2796
-United_States,France,-0.3148
+United States,France,-0.3148
 Turkey,Singapore,-0.3160
-Brazil,Hong_Kong,-0.3265
+Brazil,Hong Kong,-0.3265
 Turkey,Philippines,-0.3277
-United_Kingdom,France,-0.3460
+United Kingdom,France,-0.3460
 Turkey,Japan,-0.3521
 Canada,Japan,-0.3577
 India,Japan,-0.3944
 Turkey,Brazil,-0.3954
-Costa_Rica,India,-0.4018
+Costa Rica,India,-0.4018
 Germany,Philippines,-0.4370
 Singapore,Germany,-0.4383
 Japan,Netherlands,-0.4414
-United_States,Costa_Rica,-0.4480
-United_Kingdom,Costa_Rica,-0.4514
+United States,Costa Rica,-0.4480
+United Kingdom,Costa Rica,-0.4514
 Australia,Mexico,-0.4543
 Singapore,Mexico,-0.4572
 Philippines,Mexico,-0.4774
-Hong_Kong,Mexico,-0.5169
-United_States,Brazil,-0.5248
+Hong Kong,Mexico,-0.5169
+United States,Brazil,-0.5248
 Brazil,Australia,-0.5347
-United_Kingdom,Brazil,-0.5357
+United Kingdom,Brazil,-0.5357
 Brazil,Netherlands,-0.5519
-Brazil,New_Zealand,-0.5636
+Brazil,New Zealand,-0.5636
 Sweden,Brazil,-0.5852
-United_Kingdom,Mexico,-0.5854
-Mexico,New_Zealand,-0.5904
+United Kingdom,Mexico,-0.5854
+Mexico,New Zealand,-0.5904
 France,India,-0.5952
-United_States,Mexico,-0.5959
+United States,Mexico,-0.5959
 Mexico,Netherlands,-0.6076
-Costa_Rica,Hong_Kong,-0.6548
+Costa Rica,Hong Kong,-0.6548
 Canada,France,-0.6658
 Brazil,Canada,-0.6695
 Germany,Japan,-0.6774
-Australia,Costa_Rica,-0.6787
-Singapore,Costa_Rica,-0.6889
+Australia,Costa Rica,-0.6787
+Singapore,Costa Rica,-0.6889
 Brazil,Philippines,-0.6892
 Singapore,Brazil,-0.6897
-Costa_Rica,Philippines,-0.6901
+Costa Rica,Philippines,-0.6901
 Brazil,France,-0.6938
 Canada,Mexico,-0.6943
-Colombia,Hong_Kong,-0.7044
-Costa_Rica,New_Zealand,-0.7100
+Colombia,Hong Kong,-0.7044
+Costa Rica,New Zealand,-0.7100
 Brazil,India,-0.7107
 Japan,Mexico,-0.7133
-Turkey,Costa_Rica,-0.7150
+Turkey,Costa Rica,-0.7150
 Turkey,Mexico,-0.7216
 France,Japan,-0.7342
-Sweden,Costa_Rica,-0.7376
+Sweden,Costa Rica,-0.7376
 Brazil,Japan,-0.7431
 Germany,Mexico,-0.7471
 Australia,Guatemala,-0.7658
-Costa_Rica,Japan,-0.7693
-Canada,Costa_Rica,-0.7732
-Costa_Rica,Netherlands,-0.7788
+Costa Rica,Japan,-0.7693
+Canada,Costa Rica,-0.7732
+Costa Rica,Netherlands,-0.7788
 Brazil,Germany,-0.8205
 France,Mexico,-0.8210
-Costa_Rica,Germany,-0.8269
+Costa Rica,Germany,-0.8269
 Germany,Guatemala,-0.8394
-United_Kingdom,Colombia,-0.8449
-United_States,Guatemala,-0.8451
-United_Kingdom,Guatemala,-0.8461
-United_States,Colombia,-0.8487
+United Kingdom,Colombia,-0.8449
+United States,Guatemala,-0.8451
+United Kingdom,Guatemala,-0.8461
+United States,Colombia,-0.8487
 Singapore,Guatemala,-0.8512
 Brazil,Mexico,-0.8546
-Costa_Rica,France,-0.8581
+Costa Rica,France,-0.8581
 Australia,Colombia,-0.8635
-Brazil,Costa_Rica,-0.8636
-Colombia,New_Zealand,-0.8687
+Brazil,Costa Rica,-0.8636
+Colombia,New Zealand,-0.8687
 Guatemala,Netherlands,-0.8705
 Canada,Colombia,-0.8706
-Guatemala,Hong_Kong,-0.8707
+Guatemala,Hong Kong,-0.8707
 Colombia,Japan,-0.8715
-Guatemala,New_Zealand,-0.8737
+Guatemala,New Zealand,-0.8737
 Brazil,Colombia,-0.8738
 Guatemala,Philippines,-0.8751
 Singapore,Colombia,-0.8799
@@ -180,12 +180,12 @@ Turkey,Guatemala,-0.8856
 Turkey,Colombia,-0.8861
 Colombia,France,-0.8872
 Colombia,Netherlands,-0.8884
-Colombia,Costa_Rica,-0.8894
+Colombia,Costa Rica,-0.8894
 Guatemala,India,-0.8900
 Sweden,Guatemala,-0.8946
 France,Guatemala,-0.8980
 Colombia,Germany,-0.9012
 Guatemala,Japan,-0.9019
-Costa_Rica,Guatemala,-0.9058
+Costa Rica,Guatemala,-0.9058
 Brazil,Guatemala,-0.9066
 Colombia,Guatemala,-0.9068

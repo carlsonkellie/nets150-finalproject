@@ -8,7 +8,15 @@ Categories used:
 -Document search: each country's song lyrics form a document and used tf-idf/cosine similarity metric to compare song lyrics between countries
 
 Work breakdown:
-Jasmine: obtained CSVs of top songs in 20 countries
-Kellie: extracted song lyrics for all English songs in Python
-Jasmine: obtained airline and trade CSVs and parsed them in Java
-Kellie: implemented shortest path based on geography between countries
+Jasmine: Obtained CSVs of top songs in 20 countries
+Kellie: Extracted lyrics for top songs for each country in Python, generated country documents
+Jasmine: Obtained trade CSVs and parsed them in Java
+Kellie: Obtained airline text files and parsed them in Python
+Kellie: Obtained geography JSON file and parsed it in Python
+Jasmine: Calculated IR similarity b/w countries
+Jasmine: Data cleaning for trade data
+Kellie: Data cleaning for flight and geography data
+Kellie: Created NetworkX graphs based on song similarity, geography, trade & flights
+Kellie: Ran shortest path algorithms on geography graph
+Jasmine: Graph visualization
+Both: Graph algorithms analysis (compare & contrast between song graph and others)
